@@ -1,0 +1,395 @@
+body{
+    font-family: Coquette;
+    color: rgb(125, 106, 63);
+    background-color: rgb(238, 238, 192);
+}
+
+h1{
+    font-size: 70px;
+    text-align: center;
+}
+
+h2{
+    font-size: 45px;
+    /* padding-top: 320px;
+    padding-bottom: 10px; */
+    background-color: none;
+    height: 320px;
+    width: fit-content;
+}
+
+div h2{
+    font-size: 45px;
+    padding-top: 20px;
+    padding-bottom: none;
+    height: 100px;
+    background-color: none;
+}
+
+h3{
+    font-size: 55px;
+    text-align: center;
+    background-color: none;
+    height: 350px;
+    padding: 200px;
+}
+
+header{
+    margin-top: -20px;
+    padding-bottom: 400px;
+    background-color: none;
+}
+
+
+
+
+.uploader{
+    background-color: none;
+    text-align: center;
+}
+
+.subheader1{
+    padding: 350px;
+    background-color: none;
+}
+
+.subheader2{
+    padding: 350px;
+    background-color: none;
+}
+
+
+.logo img{
+    width: 220px;
+    height: auto;
+    float: initial;
+    padding-bottom: none;
+    margin-top: 180px;
+    margin-left: 41%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.circlecat{
+    /* float: right;
+    margin-right: 10%;
+    padding: none; */
+    width: 500px;
+    height: auto;
+}
+
+.squarecat{
+    /* float: right;
+    margin-right: 8%;
+    padding: none; */
+    width: 400px;
+    height: auto;
+}
+
+.pipecat{
+    /* float: right;
+    margin-right: 15%;
+    padding: none; */
+    width: 330px;
+    height: auto;
+}
+
+.beautifulcat{
+    float: right;
+    padding-bottom: 150px;
+    padding-left: -20px;
+    margin-top: -40px;
+    margin-right: 360px;
+    width: 310px;
+    height: auto;
+}
+
+
+.stretchingcat{
+    float: left;
+    margin-left: 220px;
+    margin-top: 20px;
+    padding-bottom: 150px;
+    width: 500px;
+    height: auto;
+}
+
+.surprisedcat{
+    float: right;
+    margin-right: 30%;
+    padding: none;
+    width: 400px;
+    height: auto;
+}
+
+.windowcat{
+    margin-left: 15%;
+    padding: none;
+    width: 360px;
+    height: auto;
+}
+
+.infinitecutecat{
+    float: right;
+    margin-right: 25%;
+    margin-top: 40px;
+    /* padding: 20px;
+    background-color: none; */
+    width: 420px;
+    height: auto;
+    padding: 0px;
+}
+
+.groomingcat{
+    float: left;
+    margin-left: 20%;
+    /* padding: 20px;
+    background-color: none; */
+    width: 420px;
+    height: auto;
+}
+
+
+.catandboy{
+    float: right;
+    margin-right: 120px;
+    margin-bottom: 90px;
+    margin-top: -150px;
+    width: 450px;
+    height: auto;
+}
+
+
+.catimage4{
+    margin-left: 30%;
+    padding: none;
+    width: 420px;
+    height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+.container1{
+    justify-content: center;
+    padding-bottom: 100px;
+}
+
+.container text{
+    position: static;
+}
+
+.number1{
+    font-weight: bolder;
+    font-size: 200px;
+    margin-left: 215px;
+    margin-top: -225px;
+    opacity: 0.5;
+}
+
+
+
+
+
+
+
+.container2{
+    justify-content: center;
+    padding-bottom: 500px;
+    position: static;
+    background-color: none;
+}
+
+.number2{
+    font-weight: bolder;
+    font-size: 200px;
+    margin-left: 380px;
+    margin-top: -225px;
+    opacity: 0.5;
+}
+
+
+
+
+
+.container3{
+    justify-content: center;
+    padding-bottom: 100px;
+    position: static;
+}
+
+.container3 h2{
+    margin-left: 20px;
+    margin-top: 45px;
+}
+
+.number3{
+    font-weight: bolder;
+    font-size: 200px;
+    margin-top: -230px;
+    margin-left: -500px;
+    opacity: 0.5;
+}
+
+
+
+
+
+.container4{
+    justify-content: center;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    position: static;
+    margin-top: 18px;
+}
+
+.number4{
+    font-weight: bolder;
+    font-size: 200px;
+    margin-left: 260px;
+    margin-top: -280px;
+    opacity: 0.5;
+}
+
+
+
+
+
+
+.container5{
+    justify-content: center;
+    position: static;
+}
+
+.number5{
+    font-weight: bolder;
+    font-size: 200px;
+    margin-left: 350px;
+    margin-bottom: -163px;
+    opacity: 0.5;
+}
+
+
+
+
+
+.container6{
+    align-items: center;
+}
+
+.number6{
+    font-weight: bolder;
+    font-size: 200px;
+    margin-left: 350px;
+    margin-bottom: 280px;
+    margin-top: -370px;
+    opacity: 0.5;
+}
+
+
+
+
+
+/* .container7{
+    align-items: center;
+} */
+
+.number7{
+    font-weight: bolder;
+    font-size: 200px;
+    opacity: 0.5;
+    margin-top: -260px;
+    margin-bottom: 300px;
+    margin-left: -190px;
+    margin-right: 90px;
+    padding: 0px;
+}
+
+
+
+
+
+.container8{
+    margin-left: 8px;
+}
+
+.number8{
+    font-weight: bolder;
+    font-size: 200px;
+    margin-left: 702px;
+    margin-bottom: 220px;
+    margin-top: -265px;
+    opacity: 0.5;
+}
+
+
+
+
+
+.container9{
+    align-items: center;
+}
+
+.number9{
+    font-weight: bolder;
+    font-size: 200px;
+    opacity: 0.5;
+    margin-top: -710px;
+    margin-left: 770px;
+    margin-bottom: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.british_shorthair img{
+    float: right;
+    margin-right: 20%;
+    padding: none;
+    width: 300px;
+    height: auto;
+}
+
+
+
+
+
+/* .catimage2{
+    float: left;
+    padding: none;
+    width: 300px;
+    height: auto;
+} */
+
+
+/* .title{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+} */
+
